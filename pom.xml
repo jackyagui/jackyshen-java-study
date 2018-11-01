@@ -19,7 +19,6 @@
 	<description>Java Project Study</description>
 
 	<modules>
-		<module>paradms</module>
 		<module>study</module>
 	</modules>
 
