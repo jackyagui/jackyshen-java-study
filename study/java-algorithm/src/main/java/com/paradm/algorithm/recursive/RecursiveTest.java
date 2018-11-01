@@ -13,12 +13,12 @@ public class RecursiveTest {
   }
 
   public static void main(String[] args) {
-    System.out.println("µİÍÆËã·¨Çó½âÍÃ×Ó²ú×ĞÎÊÌâ!");
-    System.out.print("ÇëÏÈÊäÈëÊ±¼ä:");
+    System.out.println("é€’æ¨ç®—æ³•æ±‚è§£å…”å­äº§ä»”é—®é¢˜ ! ");
+    System.out.print("è¯·å…ˆè¾“å…¥æ—¶é—´ :");
     try (Scanner input = new Scanner(System.in)) {
       int n = input.nextInt();
       int num = fibonacci(n);
-      System.out.println("¾­¹ı" + n + "¸öÔÂµÄÊ±¼ä£¬¹²ÄÜ·±Ö³³É" + num + "¶ÔÍÃ×Ó!");
+      System.out.println("ç»è¿‡" + n + "ä¸ªæœˆçš„æ—¶é—´ï¼Œå…±èƒ½ç¹æ®–æˆ" + num + "å¯¹å…”å­!");
     }
   }
 
