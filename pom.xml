@@ -20,6 +20,7 @@
 
 	<modules>
 		<module>paradms</module>
+		<module>study</module>
 	</modules>
 
 	<properties>
