@@ -9,6 +9,7 @@
   
   <groupId>com.paradm</groupId>
   <artifactId>paradms</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   
   <name>paradms</name>
