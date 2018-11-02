@@ -15,4 +15,10 @@
   <name>common</name>
 	<description>Common Code Module</description>
 	
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework</groupId>
+      <artifactId>spring-core</artifactId>
+		</dependency>
+	</dependencies>
 </project>

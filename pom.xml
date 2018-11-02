@@ -19,6 +19,8 @@
 
 	<modules>
 		<module>common</module>
+		<module>paradms</module>
+		<module>study</module>
   </modules>
 
 	<properties>
@@ -40,4 +42,15 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+	
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-log4j2</artifactId>
+		</dependency>
+		<dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+    </dependency>
+	</dependencies>
 </project>
